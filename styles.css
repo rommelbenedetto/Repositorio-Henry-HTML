@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+  
+  .main-title {
+    color: rgb(114, 114, 114);
+
+  }
+
+  #styles-main-title {
+    border: #333 solid 2px;
+    border-radius: 4px;
+    margin: auto;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  }
+
+  .project-container {
+    background-color: rgb(255, 255, 255);
+    border: #e0e0e0 solid 1px;
+    border-radius: 8px;
+    padding: 2em;
+    margin: 1em 2em 2em 2em;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2em;
+  }
+
+  .title-project {
+    color: rgb(55, 81, 123);
+    margin: 1em 0em 0em 2em;
+  }
+
+  .article-container {
+    background-color: rgb(181, 231, 255);
+    border-radius: 6px;
+    padding: 1px;
+    margin-top: 0.5em;
+  }
